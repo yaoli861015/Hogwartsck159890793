@@ -369,3 +369,4 @@
 /venv/Scripts/vcruntime140.dll
 /venv/Scripts/winsound.pyd
 /venv/pyvenv.cfg
+/pythoncode/__init__.py

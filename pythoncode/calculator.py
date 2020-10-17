@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+from decimal import *
 
 # 测试代码（加减乘除）
 class Calculator:
@@ -16,4 +17,13 @@ class Calculator:
 
     # 除法
     def div(self, a, b):
-        return a / b
+        if b != 0:
+            return round(a / b, 2)
+        else:
+            raise Exception("分母不能为零")
+
+    def div1(self, a, b):
+        if b != 0:
+            return Decimal(a / b).quantize(Decimal('0.00'))
+        else:
+            raise Exception("分母不能为零")
