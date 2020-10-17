@@ -2,6 +2,7 @@
 import pytest
 from decimal import Decimal
 
+
 from pythoncode.calculator import Calculator
 
 
@@ -59,7 +60,7 @@ class TestCalc():
                               [0, 5, 0],
                               [1, 0, 3],
                               [1, 3, 0.33],
-                              [2, 3, 0.67]], ids=[u'整数相处', u'小数相除', u'分子为零', u'分母为零', u'不四舍五入', u'四舍五入'])
+                              [2, 3, 0.67]], ids=[u"整数相处", u'小数相除', u'分子为零', u'分母为零', u'不四舍五入', u'四舍五入'])
     def test_div(self, e, d, f):
         result = self.calc.div1(e, d)
         assert result == Decimal(f).quantize(Decimal('0.00'))
