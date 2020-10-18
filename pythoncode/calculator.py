@@ -5,7 +5,7 @@ from decimal import *
 class Calculator:
     # 加法
     def add(self, a, b):
-        return a + b
+        return round((a + b), 2)
 
     # 减法
     def sub(self, a, b):

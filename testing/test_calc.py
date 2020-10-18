@@ -19,12 +19,12 @@ class TestCalc():
     @pytest.mark.parametrize('a,b,c',
                              [[1, 1, 2],
                               [100, 100, 200],
-                              [0.1, 0.1, 0.2],
+                              [1 / 3, 4 / 7, 19 / 21],
                               [-1, -2, -3],
                               [1, 0, 1]], ids=['int_case', 'bigNum_case', 'float_case', 'minus_case', 'zero_case'])
     def test_add(self, a, b, c):
         result = self.calc.add(a, b)
-        assert result == c
+        assert result == round(c, 2)
 
     def test_add1(self):
         test_data = [[1, 2, 3], [100, 1000, 1100], [0.56, 0.67, 1.23], [-3, -4.5, -7.5], [0, 3, 3]]
@@ -43,8 +43,8 @@ class TestCalc():
 
     ##方法round
     @pytest.mark.parametrize('e,d,f',
-                             [[4, 2, 2.00],
-                              [0.1, 0.1, 1.00],
+                             [[4, 2, 2],
+                              [0.1, 0.1, 1],
                               [0, 5, 0],
                               [1, 0, 3],
                               [1, 3, 0.33],
@@ -55,8 +55,8 @@ class TestCalc():
 
     ##Decimal
     @pytest.mark.parametrize('e,d,f',
-                             [[4, 2, 2.00],
-                              [0.1, 0.1, 1.00],
+                             [[4, 2, 2],
+                              [0.1, 0.1, 1],
                               [0, 5, 0],
                               [1, 0, 3],
                               [1, 3, 0.33],
