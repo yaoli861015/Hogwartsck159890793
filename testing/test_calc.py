@@ -2,8 +2,18 @@
 import pytest
 from decimal import Decimal
 
-
 from pythoncode.calculator import Calculator
+import yaml
+
+
+def get_datas():
+    with open("./data/calc.yaml", encoding='utf-8') as f:
+        datas = yaml.safe_load(f)
+    div_datas = datas['div']['datas']
+    div_ids = datas['div']['ids']
+    print(div_datas)
+    print(div_ids)
+    return div_datas, div_ids
 
 
 class TestCalc():
@@ -64,3 +74,7 @@ class TestCalc():
     def test_div(self, e, d, f):
         result = self.calc.div1(e, d)
         assert result == Decimal(f).quantize(Decimal('0.00'))
+
+    def a(self):
+        b = get_datas()
+        print(b)
