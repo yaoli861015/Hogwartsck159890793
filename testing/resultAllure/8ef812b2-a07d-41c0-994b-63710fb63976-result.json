@@ -1,0 +1,48 @@
+{
+  "name": "test_login_lose_user_name",
+  "status": "passed",
+  "start": 1603551819738,
+  "stop": 1603551819738,
+  "uuid": "8ed9b35c-57d3-4d80-af00-aab3af371577",
+  "historyId": "70afeb0ad1fe87b8fc7e1e15abb533d3",
+  "testCaseId": "842ad78bd5424856557276338585e1e1",
+  "fullName": "test_allure.TestLogin#test_login_lose_user_name",
+  "labels": [
+    {
+      "name": "story",
+      "value": "登录用户名缺失"
+    },
+    {
+      "name": "feature",
+      "value": "登录模块"
+    },
+    {
+      "name": "suite",
+      "value": "test_allure"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestLogin"
+    },
+    {
+      "name": "host",
+      "value": "USER-20181110YA"
+    },
+    {
+      "name": "thread",
+      "value": "22592-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_allure"
+    }
+  ]
+}

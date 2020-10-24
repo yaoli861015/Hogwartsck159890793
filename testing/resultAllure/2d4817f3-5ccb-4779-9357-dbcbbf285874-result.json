@@ -1,0 +1,62 @@
+{
+  "name": "test_login_success",
+  "status": "passed",
+  "steps": [
+    {
+      "name": "步骤1，打开应用",
+      "status": "passed",
+      "start": 1603551819708,
+      "stop": 1603551819708
+    },
+    {
+      "name": "步骤2，启动程序",
+      "status": "passed",
+      "start": 1603551819708,
+      "stop": 1603551819708
+    }
+  ],
+  "start": 1603551819708,
+  "stop": 1603551819708,
+  "uuid": "85f7c51c-32dd-4d6c-a05b-a32262cd8d5b",
+  "historyId": "507aa2df18696e179ef4511a505512da",
+  "testCaseId": "2f6cc0698a0e87eb6dfa3b077d67bf0d",
+  "fullName": "test_allure.TestLogin#test_login_success",
+  "labels": [
+    {
+      "name": "story",
+      "value": "登录成功"
+    },
+    {
+      "name": "feature",
+      "value": "登录模块"
+    },
+    {
+      "name": "suite",
+      "value": "test_allure"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestLogin"
+    },
+    {
+      "name": "host",
+      "value": "USER-20181110YA"
+    },
+    {
+      "name": "thread",
+      "value": "22592-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_allure"
+    }
+  ]
+}

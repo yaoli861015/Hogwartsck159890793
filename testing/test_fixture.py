@@ -3,8 +3,10 @@ __author__ = 'YL'
 
 from testing.conftest import login, db_conn
 
+import allure.pytest_plugin
 
-def test_case1(c):
+
+def test_case1():
     print("测试case1")
 
 

@@ -9,6 +9,10 @@ import pytest
 class TestLogin:
     @allure.story("登录成功")
     def test_login_success(self):
+        with allure.step("步骤1，打开应用"):
+            print("打开应用")
+        with allure.step("步骤2，启动程序"):
+            print("启动程序")
         print("登录成功")
 
     @allure.story("登录失败")
