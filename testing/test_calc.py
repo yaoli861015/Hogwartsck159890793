@@ -6,9 +6,10 @@ from pythoncode.calculator import Calculator
 import yaml
 
 
-def get_datas():
+def test_get_datas():
     with open("./data/calc.yaml", encoding='utf-8') as f:
         datas = yaml.safe_load(f)
+        print(datas)
     div_datas = datas['div']['datas']
     div_ids = datas['div']['ids']
     print(div_datas)
