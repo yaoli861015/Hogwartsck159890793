@@ -1,0 +1,74 @@
+{
+  "uid": "98d3104e051c652961429bf95fa0b5d6",
+  "name": "suites",
+  "children": [
+    {
+      "name": "test_allure",
+      "children": [
+        {
+          "name": "TestLogin",
+          "children": [
+            {
+              "name": "test_login_success",
+              "uid": "d41993449badccfc",
+              "parentUid": "3f4ddbed60a69eeaf45699f2667f15bc",
+              "status": "passed",
+              "time": {
+                "start": 1603595937316,
+                "stop": 1603595937318,
+                "duration": 2
+              },
+              "flaky": false,
+              "newFailed": false,
+              "parameters": []
+            },
+            {
+              "name": "test_login_fail",
+              "uid": "794e46c94eddc56c",
+              "parentUid": "3f4ddbed60a69eeaf45699f2667f15bc",
+              "status": "passed",
+              "time": {
+                "start": 1603595937322,
+                "stop": 1603595937322,
+                "duration": 0
+              },
+              "flaky": false,
+              "newFailed": false,
+              "parameters": []
+            },
+            {
+              "name": "test_login_lose_user_name",
+              "uid": "fafe84800cfedc9b",
+              "parentUid": "3f4ddbed60a69eeaf45699f2667f15bc",
+              "status": "passed",
+              "time": {
+                "start": 1603595937347,
+                "stop": 1603595937348,
+                "duration": 1
+              },
+              "flaky": false,
+              "newFailed": false,
+              "parameters": []
+            },
+            {
+              "name": "test_login_lose_password",
+              "uid": "ac1f12e6c0bd5965",
+              "parentUid": "3f4ddbed60a69eeaf45699f2667f15bc",
+              "status": "passed",
+              "time": {
+                "start": 1603595937351,
+                "stop": 1603595937352,
+                "duration": 1
+              },
+              "flaky": false,
+              "newFailed": false,
+              "parameters": []
+            }
+          ],
+          "uid": "3f4ddbed60a69eeaf45699f2667f15bc"
+        }
+      ],
+      "uid": "fbee53df8487942ba5333ea9eebb3863"
+    }
+  ]
+}

@@ -1,20 +1,20 @@
 {
   "name": "test_login_lose_password",
   "status": "passed",
-  "start": 1603551819738,
-  "stop": 1603551819738,
-  "uuid": "46304d6b-c2ec-4347-b332-3a99763a952a",
+  "start": 1603595937351,
+  "stop": 1603595937352,
+  "uuid": "4f70f603-1956-4194-beb5-2999d1529a97",
   "historyId": "7d73a73b0e65fe0e289f5190b10e2e1f",
   "testCaseId": "87b05986997ee7d61220a02dd9baa95b",
   "fullName": "test_allure.TestLogin#test_login_lose_password",
   "labels": [
     {
-      "name": "story",
-      "value": "登录密码缺失"
-    },
-    {
       "name": "feature",
       "value": "登录模块"
+    },
+    {
+      "name": "story",
+      "value": "登录密码缺失"
     },
     {
       "name": "suite",
@@ -30,7 +30,7 @@
     },
     {
       "name": "thread",
-      "value": "22592-MainThread"
+      "value": "9120-MainThread"
     },
     {
       "name": "framework",

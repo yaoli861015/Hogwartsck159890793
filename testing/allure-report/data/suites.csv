@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Oct 25 11:18:57 CST 2020","Sun Oct 25 11:18:57 CST 2020","2","","test_allure","TestLogin","","","test_login_success",""
+"passed","Sun Oct 25 11:18:57 CST 2020","Sun Oct 25 11:18:57 CST 2020","1","","test_allure","TestLogin","","","test_login_lose_password",""
+"passed","Sun Oct 25 11:18:57 CST 2020","Sun Oct 25 11:18:57 CST 2020","1","","test_allure","TestLogin","","","test_login_lose_user_name",""
+"passed","Sun Oct 25 11:18:57 CST 2020","Sun Oct 25 11:18:57 CST 2020","0","","test_allure","TestLogin","","","test_login_fail",""

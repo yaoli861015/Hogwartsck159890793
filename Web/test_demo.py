@@ -5,12 +5,16 @@ from selenium import webdriver
 import time
 
 
-def main():
-    b = webdriver.Chrome()
-    b.get('https://www.baidu.com')
+def test_selenium():
+    # global driver
+    # chromedriver_path = r"D:\chromedriver\chromedriver.exe"
+    # driver = webdriver.Chrome(executable_path=chromedriver_path)
+    global driver
+    driver = webdriver.Chrome()
+    driver.get('https://www.baidu.com/')
     time.sleep(5)
-    b.quit()
+    driver.quit()
 
 
 if __name__ == '__main__':
-    main()
+    test_selenium()

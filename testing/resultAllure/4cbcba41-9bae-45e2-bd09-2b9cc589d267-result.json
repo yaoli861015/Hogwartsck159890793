@@ -5,19 +5,19 @@
     {
       "name": "步骤1，打开应用",
       "status": "passed",
-      "start": 1603551819708,
-      "stop": 1603551819708
+      "start": 1603595937317,
+      "stop": 1603595937317
     },
     {
       "name": "步骤2，启动程序",
       "status": "passed",
-      "start": 1603551819708,
-      "stop": 1603551819708
+      "start": 1603595937317,
+      "stop": 1603595937318
     }
   ],
-  "start": 1603551819708,
-  "stop": 1603551819708,
-  "uuid": "85f7c51c-32dd-4d6c-a05b-a32262cd8d5b",
+  "start": 1603595937316,
+  "stop": 1603595937318,
+  "uuid": "323d482c-04e7-440f-897b-fc6a7770db57",
   "historyId": "507aa2df18696e179ef4511a505512da",
   "testCaseId": "2f6cc0698a0e87eb6dfa3b077d67bf0d",
   "fullName": "test_allure.TestLogin#test_login_success",
@@ -44,7 +44,7 @@
     },
     {
       "name": "thread",
-      "value": "22592-MainThread"
+      "value": "9120-MainThread"
     },
     {
       "name": "framework",

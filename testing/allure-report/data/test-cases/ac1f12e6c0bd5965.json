@@ -1,0 +1,70 @@
+{
+  "uid": "ac1f12e6c0bd5965",
+  "name": "test_login_lose_password",
+  "fullName": "test_allure.TestLogin#test_login_lose_password",
+  "historyId": "7d73a73b0e65fe0e289f5190b10e2e1f",
+  "time": {
+    "start": 1603595937351,
+    "stop": 1603595937352,
+    "duration": 1
+  },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    {
+      "name": "feature",
+      "value": "登录模块"
+    },
+    {
+      "name": "story",
+      "value": "登录密码缺失"
+    },
+    {
+      "name": "suite",
+      "value": "test_allure"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestLogin"
+    },
+    {
+      "name": "host",
+      "value": "USER-20181110YA"
+    },
+    {
+      "name": "thread",
+      "value": "9120-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_allure"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "ac1f12e6c0bd5965.json",
+  "parameterValues": []
+}

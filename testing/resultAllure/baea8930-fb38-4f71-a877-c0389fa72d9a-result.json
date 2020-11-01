@@ -1,16 +1,16 @@
 {
-  "name": "test_login_fail",
+  "name": "test_login_lose_user_name",
   "status": "passed",
-  "start": 1603551819708,
-  "stop": 1603551819708,
-  "uuid": "d9e41b88-2116-467b-a045-7796596c1fd6",
-  "historyId": "dc64f6e019a9aa0705cc210f127026d6",
-  "testCaseId": "4aadc9d309fbcca231f723927b62f519",
-  "fullName": "test_allure.TestLogin#test_login_fail",
+  "start": 1603595937347,
+  "stop": 1603595937348,
+  "uuid": "dc3a830e-f531-48fa-852d-bdf84a937a31",
+  "historyId": "70afeb0ad1fe87b8fc7e1e15abb533d3",
+  "testCaseId": "842ad78bd5424856557276338585e1e1",
+  "fullName": "test_allure.TestLogin#test_login_lose_user_name",
   "labels": [
     {
       "name": "story",
-      "value": "登录失败"
+      "value": "登录用户名缺失"
     },
     {
       "name": "feature",
@@ -30,7 +30,7 @@
     },
     {
       "name": "thread",
-      "value": "22592-MainThread"
+      "value": "9120-MainThread"
     },
     {
       "name": "framework",

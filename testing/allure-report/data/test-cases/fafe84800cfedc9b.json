@@ -1,12 +1,18 @@
 {
+  "uid": "fafe84800cfedc9b",
   "name": "test_login_lose_user_name",
-  "status": "passed",
-  "start": 1603551819738,
-  "stop": 1603551819738,
-  "uuid": "8ed9b35c-57d3-4d80-af00-aab3af371577",
-  "historyId": "70afeb0ad1fe87b8fc7e1e15abb533d3",
-  "testCaseId": "842ad78bd5424856557276338585e1e1",
   "fullName": "test_allure.TestLogin#test_login_lose_user_name",
+  "historyId": "70afeb0ad1fe87b8fc7e1e15abb533d3",
+  "time": {
+    "start": 1603595937347,
+    "stop": 1603595937348,
+    "duration": 1
+  },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "beforeStages": [],
+  "afterStages": [],
   "labels": [
     {
       "name": "story",
@@ -30,7 +36,7 @@
     },
     {
       "name": "thread",
-      "value": "22592-MainThread"
+      "value": "9120-MainThread"
     },
     {
       "name": "framework",
@@ -43,6 +49,22 @@
     {
       "name": "package",
       "value": "test_allure"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
     }
-  ]
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "fafe84800cfedc9b.json",
+  "parameterValues": []
 }

@@ -1,0 +1,46 @@
+[
+  {
+    "uid": "fafe84800cfedc9b",
+    "name": "test_login_lose_user_name",
+    "time": {
+      "start": 1603595937347,
+      "stop": 1603595937348,
+      "duration": 1
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "794e46c94eddc56c",
+    "name": "test_login_fail",
+    "time": {
+      "start": 1603595937322,
+      "stop": 1603595937322,
+      "duration": 0
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "ac1f12e6c0bd5965",
+    "name": "test_login_lose_password",
+    "time": {
+      "start": 1603595937351,
+      "stop": 1603595937352,
+      "duration": 1
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "d41993449badccfc",
+    "name": "test_login_success",
+    "time": {
+      "start": 1603595937316,
+      "stop": 1603595937318,
+      "duration": 2
+    },
+    "status": "passed",
+    "severity": "normal"
+  }
+]
