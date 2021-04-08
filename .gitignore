@@ -370,3 +370,10 @@
 /venv/Scripts/winsound.pyd
 /venv/pyvenv.cfg
 /pythoncode/__init__.py
+/venv/Lib/site-packages/selenium-3.141.0.dist-info/
+/venv/Lib/site-packages/selenium/
+/venv/Lib/site-packages/urllib3/
+/venv/Lib/site-packages/urllib3-1.25.11.dist-info/
+/venv/Lib/site-packages/urllib3-1.25.11.dist-info/
+/venv/Lib/site-packages/
+/venv/Lib/site-packages/
