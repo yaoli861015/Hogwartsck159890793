@@ -1,0 +1,29 @@
+{
+  "uuid": "d9bb394c-c26a-48d2-be25-613b73e4679c",
+  "children": [
+    "4916bfcd-d1cd-4b6a-8ca5-af869b198293",
+    "e70c55dc-d185-47de-b6c4-8894b3d22bf5",
+    "44debcfe-004a-4578-abd9-b8f26d3a810e",
+    "77ab0edf-f9df-4bfc-b5cf-72d115043237",
+    "f31a0329-aadc-46ff-ba85-24c510488d8f",
+    "847de359-c857-4e0a-856f-1591ccc0fe84"
+  ],
+  "befores": [
+    {
+      "name": "xunit_setup_class_fixture_TestPytest2",
+      "status": "passed",
+      "start": 1618731492591,
+      "stop": 1618731492591
+    }
+  ],
+  "afters": [
+    {
+      "name": "xunit_setup_class_fixture_TestPytest2::0",
+      "status": "passed",
+      "start": 1618731492637,
+      "stop": 1618731492637
+    }
+  ],
+  "start": 1618731492591,
+  "stop": 1618731492637
+}

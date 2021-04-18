@@ -1,0 +1,49 @@
+{
+  "name": "test_param2[93]",
+  "status": "passed",
+  "attachments": [
+    {
+      "name": "stdout",
+      "source": "3436beee-d8b4-4c85-9fa9-d9378a5e2577-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "data",
+      "value": "93"
+    }
+  ],
+  "start": 1618731492297,
+  "stop": 1618731492298,
+  "uuid": "b348f79b-2a32-4062-9ffa-71231f6d9f47",
+  "historyId": "d26e676b80a690f3642a50d6c8886ad9",
+  "testCaseId": "878ff00dc3d0b5c394fea96790c00ddf",
+  "fullName": "test_params#test_param2",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "test_params"
+    },
+    {
+      "name": "host",
+      "value": "USER-20181110YA"
+    },
+    {
+      "name": "thread",
+      "value": "18012-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_params"
+    }
+  ]
+}

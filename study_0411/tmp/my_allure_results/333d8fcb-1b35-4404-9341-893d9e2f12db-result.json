@@ -1,0 +1,50 @@
+{
+  "name": "test_eval[5*5-30]",
+  "status": "failed",
+  "statusDetails": {
+    "message": "AssertionError: assert 25 == 30\n +  where 25 = eval('5*5')",
+    "trace": "test_input = '5*5', excepted = 30\n\n    @pytest.mark.parametrize(\"test_input,excepted\", [(\"3+5\", 8), (\"2+5\", 7), (\"3+4\", 7), (\"5*5\", 30)])\n    def test_eval(test_input, excepted):\n>       assert eval(test_input) == excepted\nE       AssertionError: assert 25 == 30\nE        +  where 25 = eval('5*5')\n\ntest_params.py:25: AssertionError"
+  },
+  "parameters": [
+    {
+      "name": "test_input",
+      "value": "'5*5'"
+    },
+    {
+      "name": "excepted",
+      "value": "30"
+    }
+  ],
+  "start": 1618731492374,
+  "stop": 1618731492375,
+  "uuid": "022feb05-ead5-4b70-8599-43bede69f2e5",
+  "historyId": "8074dd8f846ed4bad1bcf10f45337b4c",
+  "testCaseId": "271a0b451b05f1f4273bc695f760faf0",
+  "fullName": "test_params#test_eval",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "test_params"
+    },
+    {
+      "name": "host",
+      "value": "USER-20181110YA"
+    },
+    {
+      "name": "thread",
+      "value": "18012-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_params"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "test_two",
+  "status": "passed",
+  "attachments": [
+    {
+      "name": "stdout",
+      "source": "0a031510-2e9d-4e56-9eac-e3166d389901-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "start": 1618731491505,
+  "stop": 1618731491507,
+  "uuid": "21d7eb79-e8fe-433a-9a7c-d4b3332c8aba",
+  "historyId": "241e2f4c0db9b97634f79d9de8c2bc6e",
+  "testCaseId": "d11fcaa373b6f830ad40b5fc5625461e",
+  "fullName": "test_outuse.TestAutoUse#test_two",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "test_outuse"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestAutoUse"
+    },
+    {
+      "name": "host",
+      "value": "USER-20181110YA"
+    },
+    {
+      "name": "thread",
+      "value": "18012-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_outuse"
+    }
+  ]
+}

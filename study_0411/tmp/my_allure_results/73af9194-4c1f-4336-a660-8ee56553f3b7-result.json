@@ -1,0 +1,49 @@
+{
+  "name": "test_login[jerry]",
+  "status": "passed",
+  "attachments": [
+    {
+      "name": "stdout",
+      "source": "686a0ffc-c669-4eb5-bc0b-5e5877698e66-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "login_r",
+      "value": "'jerry'"
+    }
+  ],
+  "start": 1618731491525,
+  "stop": 1618731491526,
+  "uuid": "d04609ac-fb96-4209-93dd-2dfb718d06c6",
+  "historyId": "c90a1acff91e8053a089caaa46676cf9",
+  "testCaseId": "3039033e0d6ac3fbcf6e4303cfb0967c",
+  "fullName": "test_param#test_login",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "test_param"
+    },
+    {
+      "name": "host",
+      "value": "USER-20181110YA"
+    },
+    {
+      "name": "thread",
+      "value": "18012-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_param"
+    }
+  ]
+}
