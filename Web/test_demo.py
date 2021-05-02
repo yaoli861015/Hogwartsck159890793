@@ -12,7 +12,7 @@ def test_selenium():
     global driver
     driver = webdriver.Chrome()
     driver.get('https://www.baidu.com/')
-    time.sleep(5)
+    time.sleep(10)
     driver.quit()
 
 
