@@ -1,9 +1,0 @@
-
-setup_method2,在每个测试方法开始时先调用，都执行一次
-two,测试用例6
-
-teardown_method2,在每个测试方法结束后调用，都只执行一次
-
-teardown_class2,只执行一次
-
-teardown_module,只执行一次，当有多个测试类的时候执行
