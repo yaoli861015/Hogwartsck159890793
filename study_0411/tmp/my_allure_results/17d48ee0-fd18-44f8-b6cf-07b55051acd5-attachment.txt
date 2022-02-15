@@ -1,2 +1,0 @@
-<function login at 0x00000000039A28C8>
-test_case3,需要登录

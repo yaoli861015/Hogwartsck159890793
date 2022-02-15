@@ -1,0 +1,25 @@
+{
+  "uuid": "1214de33-5dc0-468c-b38c-e0f2222948d4",
+  "children": [
+    "2877bfa5-7712-47e9-9097-eec7256a5d83",
+    "6681d262-1fe1-42c7-bc3d-c34a07fda195"
+  ],
+  "befores": [
+    {
+      "name": "_xunit_setup_class_fixture_TestPytest1",
+      "status": "passed",
+      "start": 1644893034998,
+      "stop": 1644893034998
+    }
+  ],
+  "afters": [
+    {
+      "name": "_xunit_setup_class_fixture_TestPytest1::0",
+      "status": "passed",
+      "start": 1644893035006,
+      "stop": 1644893035006
+    }
+  ],
+  "start": 1644893034998,
+  "stop": 1644893035006
+}

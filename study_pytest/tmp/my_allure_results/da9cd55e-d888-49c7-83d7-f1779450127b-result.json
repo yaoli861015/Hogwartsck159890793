@@ -1,0 +1,47 @@
+{
+  "name": "test_search1",
+  "status": "broken",
+  "statusDetails": {
+    "message": "Exception: 出错了",
+    "trace": "open_windows = None\n\n    def test_search1(open_windows):\n        print('test_search1')\n>       raise Exception('出错了')\nE       Exception: 出错了\n\ntest_fixture_scope.py:15: Exception"
+  },
+  "attachments": [
+    {
+      "name": "stdout",
+      "source": "ab2060d4-f0a2-4f8e-a256-5ea147ede0b8-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "start": 1644893033463,
+  "stop": 1644893033463,
+  "uuid": "dbad6eb3-9c60-4c3c-b0cf-1e861fc6bb12",
+  "historyId": "4700b3cf84b4e76c71f28cf48ae2c3a9",
+  "testCaseId": "2b33831c00e126e4190ae4292f6a8f36",
+  "fullName": "test_fixture_scope#test_search1",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "test_fixture_scope"
+    },
+    {
+      "name": "host",
+      "value": "小姚"
+    },
+    {
+      "name": "thread",
+      "value": "10660-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_fixture_scope"
+    }
+  ]
+}
