@@ -1,0 +1,47 @@
+{
+  "name": "test_search4",
+  "status": "passed",
+  "attachments": [
+    {
+      "name": "stdout",
+      "source": "65c46e77-3873-4779-a956-b1bb6d5694e0-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "start": 1644978996631,
+  "stop": 1644978996631,
+  "uuid": "a7a937c6-e567-4499-aad7-63faa12dcd11",
+  "historyId": "c3000b3a95162e3e1fe6299c89495ce3",
+  "testCaseId": "5ed28c26f278ef26e00240c3fbc3c6d3",
+  "fullName": "test_fixture_scope#test_search4",
+  "labels": [
+    {
+      "name": "tag",
+      "value": "@pytest.mark.usefixtures('open_windows')"
+    },
+    {
+      "name": "suite",
+      "value": "test_fixture_scope"
+    },
+    {
+      "name": "host",
+      "value": "小姚"
+    },
+    {
+      "name": "thread",
+      "value": "5612-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_fixture_scope"
+    }
+  ]
+}

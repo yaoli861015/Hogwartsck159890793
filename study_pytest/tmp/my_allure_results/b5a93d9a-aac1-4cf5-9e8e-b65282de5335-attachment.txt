@@ -1,0 +1,7 @@
+
+setup_class2,只执行一次
+
+setup_method2,在每个测试方法开始时先调用，都执行一次
+test_one,测试用例1
+
+teardown_method2,在每个测试方法结束后调用，都只执行一次

@@ -1,0 +1,43 @@
+{
+  "name": "test_24",
+  "status": "passed",
+  "attachments": [
+    {
+      "name": "stdout",
+      "source": "8fc06d87-2106-418d-9f9e-24a5bce87cf5-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "start": 1644978997736,
+  "stop": 1644978997736,
+  "uuid": "0f654748-9688-4b4f-8629-8417af11cda8",
+  "historyId": "a326dad45ae46ffe7654042e730a1c9d",
+  "testCaseId": "377f7af608de688a0289dc1cec6f3bc9",
+  "fullName": "test_xdist#test_24",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "test_xdist"
+    },
+    {
+      "name": "host",
+      "value": "小姚"
+    },
+    {
+      "name": "thread",
+      "value": "5612-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_xdist"
+    }
+  ]
+}

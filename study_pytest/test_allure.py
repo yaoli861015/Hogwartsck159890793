@@ -9,7 +9,7 @@ class TestLogin:
     def test_login(self):
         print(f"登录成功")
         pass
-    #
+
     @allure.story("测试失败的登录场景")
     def test_login2(self):
         print(f"登录失败")

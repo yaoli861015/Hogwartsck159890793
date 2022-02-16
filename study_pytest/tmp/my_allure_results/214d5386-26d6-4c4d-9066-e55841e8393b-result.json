@@ -1,0 +1,43 @@
+{
+  "name": "test_yaml_read",
+  "status": "passed",
+  "attachments": [
+    {
+      "name": "stdout",
+      "source": "fe4c9086-bd07-4d76-9ab6-c0ca42120061-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "start": 1644978997776,
+  "stop": 1644978997779,
+  "uuid": "2006d253-c932-4571-aaad-8121a29e1e17",
+  "historyId": "e8a5dbd8d51d99130f6d960204ece566",
+  "testCaseId": "318b51435e9ff7239479fc95efc3c047",
+  "fullName": "test_yaml#test_yaml_read",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "test_yaml"
+    },
+    {
+      "name": "host",
+      "value": "小姚"
+    },
+    {
+      "name": "thread",
+      "value": "5612-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_yaml"
+    }
+  ]
+}

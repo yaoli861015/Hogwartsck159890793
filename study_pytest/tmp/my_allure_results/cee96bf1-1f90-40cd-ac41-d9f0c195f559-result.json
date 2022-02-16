@@ -1,0 +1,49 @@
+{
+  "name": "test_login[jack]",
+  "status": "passed",
+  "attachments": [
+    {
+      "name": "stdout",
+      "source": "af4f6d5b-875a-4838-ad35-43397dc6e8cb-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "login_r",
+      "value": "'jack'"
+    }
+  ],
+  "start": 1644978996638,
+  "stop": 1644978996638,
+  "uuid": "dfe892b1-7e7c-46ec-8d6f-0361694b2277",
+  "historyId": "e9b01918b2354dc21cc843270a06aee6",
+  "testCaseId": "3039033e0d6ac3fbcf6e4303cfb0967c",
+  "fullName": "test_param#test_login",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "test_param"
+    },
+    {
+      "name": "host",
+      "value": "小姚"
+    },
+    {
+      "name": "thread",
+      "value": "5612-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_param"
+    }
+  ]
+}

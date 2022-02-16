@@ -1,0 +1,43 @@
+{
+  "name": "test_case1",
+  "status": "passed",
+  "attachments": [
+    {
+      "name": "stdout",
+      "source": "9150761d-0494-4438-b08f-b3c91778e75f-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "start": 1644978996610,
+  "stop": 1644978996610,
+  "uuid": "403e5e7f-046f-4f4e-8a50-bc86470885c0",
+  "historyId": "cccf92cfe9a3ca80ef97f83895c79c4c",
+  "testCaseId": "6c09a59c88b185e22ac4aef10dcc5798",
+  "fullName": "test_fixture#test_case1",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "test_fixture"
+    },
+    {
+      "name": "host",
+      "value": "小姚"
+    },
+    {
+      "name": "thread",
+      "value": "5612-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_fixture"
+    }
+  ]
+}

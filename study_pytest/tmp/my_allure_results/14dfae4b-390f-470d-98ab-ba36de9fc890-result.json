@@ -1,0 +1,50 @@
+{
+  "name": "test_login_search_steps",
+  "status": "passed",
+  "steps": [
+    {
+      "name": "login",
+      "status": "passed",
+      "start": 1644978991230,
+      "stop": 1644978991230
+    },
+    {
+      "name": "search",
+      "status": "passed",
+      "start": 1644978991230,
+      "stop": 1644978991230
+    }
+  ],
+  "start": 1644978991230,
+  "stop": 1644978991230,
+  "uuid": "d57d15a9-eab6-4bd2-94ce-85df06785072",
+  "historyId": "e31d6d5d63b14634f5463698ce680c80",
+  "testCaseId": "da690026c49c4fd37f0a17b7474ee8da",
+  "fullName": "test_allure#test_login_search_steps",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "test_allure"
+    },
+    {
+      "name": "host",
+      "value": "小姚"
+    },
+    {
+      "name": "thread",
+      "value": "5612-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_allure"
+    }
+  ]
+}

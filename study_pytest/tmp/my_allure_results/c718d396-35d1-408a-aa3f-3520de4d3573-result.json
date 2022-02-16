@@ -1,0 +1,50 @@
+{
+  "name": "test_search",
+  "status": "passed",
+  "steps": [
+    {
+      "name": "打开chrome浏览器",
+      "status": "passed",
+      "start": 1644978991230,
+      "stop": 1644978993583
+    },
+    {
+      "name": "打开Baidu。com",
+      "status": "passed",
+      "start": 1644978993583,
+      "stop": 1644978994423
+    }
+  ],
+  "start": 1644978991230,
+  "stop": 1644978996604,
+  "uuid": "9aa641c2-96a5-4646-81eb-5c254e5c17d7",
+  "historyId": "5d80af4b6dabc09cf16a13eb6fefff0d",
+  "testCaseId": "5a0bdd71217d72fecf4bf4d29fb8dc92",
+  "fullName": "test_allure#test_search",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "test_allure"
+    },
+    {
+      "name": "host",
+      "value": "小姚"
+    },
+    {
+      "name": "thread",
+      "value": "5612-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_allure"
+    }
+  ]
+}
