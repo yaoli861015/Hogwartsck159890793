@@ -2,7 +2,9 @@
 
 from selenium.webdriver.common.by import By
 from Web.page.base_page import BasePage
-from Web.page.register import RegisterPage
+
+
+# from Web.page.register import RegisterPage
 
 
 class Login(BasePage):

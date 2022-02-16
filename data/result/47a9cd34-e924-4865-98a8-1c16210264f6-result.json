@@ -1,0 +1,85 @@
+{
+  "name": "test_steps_demo[allure]",
+  "status": "passed",
+  "steps": [
+    {
+      "name": "百度搜索",
+      "status": "passed",
+      "start": 1645022225878,
+      "stop": 1645022241911
+    },
+    {
+      "name": "输入搜索词：allure",
+      "status": "passed",
+      "start": 1645022241911,
+      "stop": 1645022247131
+    },
+    {
+      "name": "保存图片",
+      "status": "passed",
+      "attachments": [
+        {
+          "source": "67418244-f496-41f1-820f-bf90dae58f29-attachment.png",
+          "type": "image/png"
+        }
+      ],
+      "start": 1645022247131,
+      "stop": 1645022247406
+    },
+    {
+      "name": "关闭浏览器",
+      "status": "passed",
+      "start": 1645022247406,
+      "stop": 1645022249745
+    }
+  ],
+  "parameters": [
+    {
+      "name": "test_data1",
+      "value": "'allure'"
+    }
+  ],
+  "start": 1645022225878,
+  "stop": 1645022249745,
+  "uuid": "a667aca1-0d16-4398-924a-b57a7c3feb81",
+  "historyId": "77446bc5c35b2e2394141393a0922721",
+  "testCaseId": "c1bd71ed6b29aa553aa5af4cbca54344",
+  "fullName": "test_baidudemo#test_steps_demo",
+  "labels": [
+    {
+      "name": "feature",
+      "value": "百度搜索"
+    },
+    {
+      "name": "suite",
+      "value": "test_baidudemo"
+    },
+    {
+      "name": "host",
+      "value": "小姚"
+    },
+    {
+      "name": "thread",
+      "value": "12396-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_baidudemo"
+    }
+  ],
+  "links": [
+    {
+      "type": "test_case",
+      "url": "http:www.github.com",
+      "name": "http:www.github.com"
+    }
+  ]
+}
