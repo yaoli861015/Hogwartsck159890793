@@ -11,7 +11,7 @@ def login_r(request):
     return user
 
 
-@pytest.mark.parametrize('login_r', test_user_data, indirect=True)
+@pytest.mark.parametrize('login_r', test_user_data, indirect=True, ids=["a", "b", "c"])
 def test_login(login_r):
     print(f"测试用例中login的返回值：{login_r}")
     assert login_r != ''
